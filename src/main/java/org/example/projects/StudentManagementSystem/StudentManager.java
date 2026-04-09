@@ -17,7 +17,7 @@ public class StudentManager {
         }
         if(toRemove != null) {
             students.remove(toRemove);
-            System.out.println("Student removed.");
+            System.out.println("Student removed");
         } else {
             System.out.println("Student not found.");
         }
